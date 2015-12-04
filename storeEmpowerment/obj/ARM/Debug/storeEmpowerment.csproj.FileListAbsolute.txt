@@ -1,0 +1,888 @@
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Documents\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sriram\Music\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sriram\Desktop\StoreEmpowerNew\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew1\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew2\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Desktop\Backups\New folder\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.Core.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.Core.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew3\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.xr.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\resources.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\storeEmpowerment.build.appxrecipe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\BugSense-WP8.1.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\CrittercismSDK.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\DrawerLayout.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.Core.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.winmd
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\GoogleAnalytics.Core.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\ZXing.pri
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.i.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xaml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\App.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\LoginPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MainPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\NewSettings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProductOverview.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\productSearch.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\searchPage.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\Settings.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\StoreList.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeRoutine.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\TeamAccess.xbf
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.exe
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\loginApp.pdb
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\storeEmpowerment.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Debug\ProjectArchitectures.txt

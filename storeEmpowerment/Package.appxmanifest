@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="ab398442-2b8f-465c-bfa9-6c897ddfffe5" Publisher="OID.0.9.2342.19200300.100.1.1=10579329, CN=Tesco PLC., OU=Tesco PLC." Version="2.0.0.3" />
+  <mp:PhoneIdentity PhoneProductId="ab398442-2b8f-465c-bfa9-6c897ddfffe5" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>storeEmpowerment</DisplayName>
+    <PublisherDisplayName>Tesco PLC</PublisherDisplayName>
+    <Logo>Assets\Logo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="loginApp.App">
+      <m3:VisualElements DisplayName="Availability" Square150x150Logo="Assets\icon-150.png" Square44x44Logo="Assets\square44.png" Description="StoreEmpowerment" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\icon-310_150.png" Square71x71Logo="Assets\icon-71.png">
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <m3:Capability Name="contacts" />
+    <Capability Name="picturesLibrary" />
+    <DeviceCapability Name="webcam" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>VideoEffects.WindowsPhone.dll</Path>
+        <ActivatableClass ActivatableClassId="VideoEffects.CanvasEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="VideoEffects.LumiaEffect" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="VideoEffects.LumiaAnalyzer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="VideoEffects.ShaderEffectBgrx8" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="VideoEffects.ShaderEffectNv12" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="VideoEffects.SquareEffect" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+</Package>

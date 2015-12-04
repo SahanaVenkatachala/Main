@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TESCOWINDOWS</Machine>
+    <WindowsUser>Sahana</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>ab398442-2b8f-465c-bfa9-6c897ddfffe5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\loginApp.exe">
+      <PackagePath>loginApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\BugSense.WP81.3.6.6.0\lib\wpa81\BugSense-WP8.1.dll">
+      <PackagePath>BugSense-WP8.1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Crittercism.2.2.1\lib\wpa81\CrittercismSDK.dll">
+      <PackagePath>CrittercismSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll">
+      <PackagePath>DrawerLayout.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81-hidden\ARM\Lumia.Imaging.Managed.dll">
+      <PackagePath>Lumia.Imaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Win2D.0.0.16\build\wpa\..\..\bin\Phone\ARM\Microsoft.Graphics.Canvas.Numerics.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\MMaitre.VideoEffects.2.3.1\lib\portable-netcore451+wpa81\VideoEffectExtensions.dll">
+      <PackagePath>VideoEffectExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\LumiaImagingSDK.2.0.208\build\wpa81\..\..\lib\wpa81\ARM\Lumia.Imaging.dll">
+      <PackagePath>Lumia.Imaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Win2D.0.0.16\build\wpa\..\..\bin\Phone\ARM\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\LumiaImagingSDK.2.0.208\build\wpa81\..\..\lib\wpa81\ARM\Lumia.InteropServices.WindowsRuntime.dll">
+      <PackagePath>Lumia.InteropServices.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\MMaitre.VideoEffects.2.3.1\build\Native\WindowsPhone\ARM\VideoEffects.WindowsPhone.dll">
+      <PackagePath>VideoEffects.WindowsPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\GoogleAnalyticsSDK.1.3.00\lib\wpa81\GoogleAnalytics.Core.winmd">
+      <PackagePath>GoogleAnalytics.Core.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\GoogleAnalyticsSDK.1.3.00\lib\wpa81\GoogleAnalytics.winmd">
+      <PackagePath>GoogleAnalytics.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81\ARM\Lumia.Imaging.winmd">
+      <PackagePath>Lumia.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\LumiaImagingSDK.2.0.208\build\wpa81\\..\..\lib\wpa81\ARM\Lumia.InteropServices.WindowsRuntime.winmd">
+      <PackagePath>Lumia.InteropServices.WindowsRuntime.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\Win2D.0.0.16\build\wpa\..\..\bin\Phone\ARM\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\MMaitre.VideoEffects.2.3.1\build\wpa81\\..\Native\WindowsPhone\ARM\VideoEffects.winmd">
+      <PackagePath>VideoEffects.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\packages\ZXing.Net.0.14.0.1\lib\wpa81\ZXing.winmd">
+      <PackagePath>ZXing.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\analytics.xml">
+      <PackagePath>analytics.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\add.png">
+      <PackagePath>Assets\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\availability.png">
+      <PackagePath>Assets\availability.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\backImg.png">
+      <PackagePath>Assets\backImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\cancel.png">
+      <PackagePath>Assets\cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\cancelicon.png">
+      <PackagePath>Assets\cancelicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\compliance.png">
+      <PackagePath>Assets\compliance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon-150.png">
+      <PackagePath>Assets\icon-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon-310_150.png">
+      <PackagePath>Assets\icon-310_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon-44.png">
+      <PackagePath>Assets\icon-44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon-71.png">
+      <PackagePath>Assets\icon-71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon_scan.png">
+      <PackagePath>Assets\icon_scan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\icon_search.png">
+      <PackagePath>Assets\icon_search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\ic_backArrow.png">
+      <PackagePath>Assets\ic_backArrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\ic_drawer.png">
+      <PackagePath>Assets\ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\EmpowLogo.png">
+      <PackagePath>Assets\EmpowLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\loginScreen_logo.png">
+      <PackagePath>Assets\loginScreen_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\login_logo_MyStock.png">
+      <PackagePath>Assets\login_logo_MyStock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\logOut.png">
+      <PackagePath>Assets\logOut.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\scanimg.png">
+      <PackagePath>Assets\scanimg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\scanimg1.png">
+      <PackagePath>Assets\scanimg1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\search-icon.png">
+      <PackagePath>Assets\search-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\search1.png">
+      <PackagePath>Assets\search1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\select.png">
+      <PackagePath>Assets\select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\Splash_screen1.scale-100.png">
+      <PackagePath>Assets\Splash_screen1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\square44.png">
+      <PackagePath>Assets\square44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\square71.png">
+      <PackagePath>Assets\square71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\Tesco.png">
+      <PackagePath>Assets\Tesco.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\tick.png">
+      <PackagePath>Assets\tick.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\triangle_arrow.png">
+      <PackagePath>Assets\triangle_arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\warning.png">
+      <PackagePath>Assets\warning.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\x-mark-md.png">
+      <PackagePath>Assets\x-mark-md.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\loginpg.jpg">
+      <PackagePath>Assets\loginpg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Assets\minus.jpg">
+      <PackagePath>Assets\minus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\BugSense\BugSense - SDK License Agreement.txt">
+      <PackagePath>BugSense\BugSense - SDK License Agreement.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\Html\resp.html">
+      <PackagePath>Html\resp.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\NewSettings.xbf">
+      <PackagePath>NewSettings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\ProductOverview.xbf">
+      <PackagePath>ProductOverview.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\productSearch.xbf">
+      <PackagePath>productSearch.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\searchPage.xbf">
+      <PackagePath>searchPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\StoreList.xbf">
+      <PackagePath>StoreList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\storeRoutine.xbf">
+      <PackagePath>storeRoutine.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\TeamAccess.xbf">
+      <PackagePath>TeamAccess.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\loginApp.xr.xml">
+      <PackagePath>loginApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

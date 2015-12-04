@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\sahana\documents\storeempowernew\windows\storeempowerment-windows\storeempowerment\obj\x86\debug\intermediatexaml\loginapp.exe" HashGuid="f052401d-10ac-20e3-e479-5a8c2fbc8f57" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\bugsense.wp81.3.6.6.0\lib\wpa81\bugsense-wp8.1.dll" HashGuid="56021fa7-2a8c-0189-86b6-047795b12287" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\crittercism.2.2.1\lib\wpa81\crittercismsdk.dll" HashGuid="7d6517e5-cb85-f69a-df42-6ee59436142f" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\drawerlayout.1.0.4\lib\drawerlayout.dll" HashGuid="b0d3b3f8-90b7-6a66-b416-66f64dcf26fa" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\lumiaimagingsdk.2.0.208\lib\wpa81-hidden\x86\lumia.imaging.managed.dll" HashGuid="4995ac95-997b-6a34-dd96-7fb05ef15210" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\lumiaimagingsdk.2.0.208\lib\wpa81\x86\lumia.imaging.winmd" HashGuid="d16e02ff-554c-0883-c15e-9c1ee6c065c5" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\lumiaimagingsdk.2.0.208\lib\wpa81\x86\lumia.interopservices.windowsruntime.winmd" HashGuid="be026b97-4e17-03e1-494d-e8a25f3c2582" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\win2d.0.0.16\bin\phone\x86\microsoft.graphics.canvas.numerics.dll" HashGuid="53b04cc0-cebe-de82-c242-0343c2ddb74f" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\win2d.0.0.16\bin\phone\x86\microsoft.graphics.canvas.winmd" HashGuid="5861571d-abfc-1d44-51fd-49bc172a714c" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\newtonsoft.json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="225745d8-3693-ad6f-ebd5-8845d81f8e0f" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\mmaitre.videoeffects.2.3.1\lib\portable-netcore451+wpa81\videoeffectextensions.dll" HashGuid="9877d2f6-2d07-570b-b509-0d9d6a178464" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\mmaitre.videoeffects.2.3.1\build\native\windowsphone\x86\videoeffects.winmd" HashGuid="87722979-a09e-3c79-f352-47bbee48a4d7" />
+    <ReferenceAssembly PathName="c:\users\sahana\desktop\backups\storeempowernew2\windows\storeempowerment-windows\packages\zxing.net.0.14.0.1\lib\wpa81\zxing.winmd" HashGuid="a78fc7f8-dd46-b4f1-5011-27b2896bf3e2" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

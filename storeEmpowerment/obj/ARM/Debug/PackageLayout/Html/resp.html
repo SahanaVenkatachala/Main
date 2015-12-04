@@ -1,0 +1,946 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.1/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.1/angular-animate.min.js"></script>
+    <script src="https://labs.ocset.net/inform/content/js/fastclick.js"></script>
+
+    <style>
+        /*!
+        Pure v0.5.0
+        Copyright 2014 Yahoo! Inc. All rights reserved.
+        Licensed under the BSD License.
+        https://github.com/yui/pure/blob/master/LICENSE.md
+        */
+        .pure-button {
+            /* Structure */
+            display: inline-block;
+            *display: inline; /*IE 6/7*/
+            zoom: 1;
+            line-height: normal;
+            white-space: nowrap;
+            vertical-align: baseline;
+            text-align: center;
+            cursor: pointer;
+            -webkit-user-drag: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+            /* Firefox: Get rid of the inner focus border */
+            .pure-button::-moz-focus-inner {
+                padding: 0;
+                border: 0;
+            }
+
+        /*csslint outline-none:false*/
+        @-ms-viewport {
+            width: 320px;
+        }
+
+        .pure-button {
+            font-family: inherit;
+            font-size: 100%;
+            *font-size: 90%; /*IE 6/7 - To reduce IE's oversized button text*/
+            *overflow: visible; /*IE 6/7 - Because of IE's overly large left/right padding on buttons */
+            padding: 0.5em 1em;
+            color: #444; /* rgba not supported (IE 8) */
+            color: rgba(0, 0, 0, 0.80); /* rgba supported */
+            *color: #444; /* IE 6 & 7 */
+            border: 1px solid #999; /*IE 6/7/8*/
+            border: none rgba(0, 0, 0, 0); /*IE9 + everything else*/
+            background-color: #E6E6E6;
+            text-decoration: none;
+            border-radius: 2px;
+        }
+
+            .pure-button-hover,
+            .pure-button:hover,
+            .pure-button:focus {
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#1a000000',GradientType=0);
+                background-image: -webkit-gradient(linear, 0 0, 0 100%, from(transparent), color-stop(40%, rgba(0,0,0, 0.05)), to(rgba(0,0,0, 0.10)));
+                background-image: -webkit-linear-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+                background-image: -moz-linear-gradient(top, rgba(0,0,0, 0.05) 0%, rgba(0,0,0, 0.10));
+                background-image: -o-linear-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+                background-image: linear-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+            }
+
+            .pure-button:focus {
+                outline: 0;
+            }
+
+            .pure-button-active,
+            .pure-button:active {
+                box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+            }
+
+            .pure-button[disabled],
+            .pure-button-disabled,
+            .pure-button-disabled:hover,
+            .pure-button-disabled:focus,
+            .pure-button-disabled:active {
+                border: none;
+                background-image: none;
+                filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+                filter: alpha(opacity=40);
+                -khtml-opacity: 0.40;
+                -moz-opacity: 0.40;
+                opacity: 0.40;
+                cursor: not-allowed;
+                box-shadow: none;
+            }
+
+        .pure-button-hidden {
+            display: none;
+        }
+
+        /* Firefox: Get rid of the inner focus border */
+        .pure-button::-moz-focus-inner {
+            padding: 0;
+            border: 0;
+        }
+
+        .pure-button-primary,
+        .pure-button-selected,
+        a.pure-button-primary,
+        a.pure-button-selected {
+            background-color: rgb(0, 120, 231);
+            color: #fff;
+        }
+
+
+        .button-success {
+            background-color: #009247; /* this is a green */
+            color: #ffffff;
+        }
+
+        .button-error {
+            background: rgb(202, 60, 60); /* this is a maroon */
+            color: #ffffff;
+        }
+
+        .button-warning {
+            background: rgb(223, 117, 20); /* this is an orange */
+            color: #ffffff;
+        }
+
+        .button-secondary {
+            background: rgb(66, 184, 221); /* this is a light blue */
+        }
+    </style>
+
+    <style>
+        html, body {
+            width: 100%;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            white-space: nowrap;
+            background-color: #eeeeee;
+            color: #2566A3;
+            overflow: hidden;
+        }
+
+        #wrapper {
+            width: 96%;
+            max-width: 31em;
+            margin: auto;
+        }
+
+        img {
+            width: 100px;
+            height: 100px;
+            float: right;
+        }
+
+        .classicInform th, .classicInform td {
+            padding: 0.6em 0.8em 0.6em 0.8em;
+            margin: 0;
+        }
+
+        .classicInform #productDescription {
+            white-space: normal;
+            color: Black;
+            font-size: 1.25em;
+            width: 100%;
+        }
+
+        .classicInform #productPrice {
+            font-size: 1.2em;
+            color: #000000;
+        }
+
+        .classicInform #productTPNB {
+            font-size: 1.2em;
+        }
+
+        .classicInform table {
+            background-color: #ffffff;
+            width: 98%;
+            border-collapse: separate;
+            border-spacing: 0;
+            border-style: none;
+            font-family: Sans-Serif;
+            font-size: 0.8em;
+            margin: 0.8em 0.2em;
+            box-shadow: 0 0 0.3em #888;
+        }
+
+        .classicInform th {
+            background-color: #2566A3;
+            color: #ffffff;
+            text-align: right;
+            font-weight: normal;
+            font-size: 0.9em;
+            height: 1.8em;
+        }
+
+            .classicInform th:nth-child(1) {
+                width: 100%;
+                text-align: left;
+            }
+
+        .classicInform tr:nth-child(even), .classicInform table.noAlternates tr {
+            background-color: #ffffff;
+        }
+
+        .classicInform tr:nth-child(odd) {
+            background-color: #f2f2f2;
+        }
+
+        .classicInform .valueCell, .valueDiv {
+            text-align: right;
+            color: #000000;
+            font-size: 1.2em;
+        }
+
+        .leftDiv {
+            float: left;
+        }
+
+        .leftText {
+            text-align: left;
+        }
+
+        .centreText {
+            text-align: center;
+        }
+
+        .alertCell {
+            background-color: #FFDDDD;
+            border-top: 1px solid #ffffff;
+            font-size: 1.0em;
+            color: Black;
+        }
+
+        .classicInform .promotionCell {
+            background-color: #ffffdd;
+            white-space: normal;
+            color: Black;
+            font-size: 1.0em;
+        }
+
+        .classicInform .futurePromotionCell {
+            background-color: White;
+            white-space: normal;
+            color: Black;
+            font-size: 1.0em;
+        }
+
+        .smallText {
+            font-size: 0.9em;
+            color: #cccccc;
+        }
+    </style>
+    <style>
+        /*! Freebie Structure */
+        #calendar {
+            display: block;
+            margin: 0.8em 0.2em;
+            box-shadow: 0 0 0.3em #888;
+            font-family: Sans-Serif;
+            font-size: 0.9em;
+            width: 98%;
+        }
+
+            /* Days Wrapper */
+            #calendar .c-days {
+                width: 100%;
+                border-spacing: 0px;
+                border-collapse: separate;
+                border: 1px solid #c3c3c3;
+                border-top: none;
+            }
+
+                #calendar .c-days thead th {
+                    padding: 12px 0 12px 0;
+                    width: 12.5%;
+                    text-align: center;
+                    font-size: 12px;
+                    font-weight: normal;
+                }
+
+                    #calendar .c-days thead th:not(:first-child) {
+                        background-color: #ffffff;
+                    }
+
+
+                #calendar .c-days tbody tr td, #calendar .c-days thead tr th {
+                    border-width: 1px 1px 0px 0px;
+                    border-style: solid;
+                    border-color: #c3c3c3;
+                    padding-top: 0.6em;
+                    padding-bottom: 0.6em;
+                    -webkit-transition: background 1s ease-in-out; /* For Safari 3.1 to 6.0 */
+                    transition: background 1s ease-in-out;
+                }
+
+                    #calendar .c-days tbody tr td:last-child, #calendar .c-days thead tr th:last-child {
+                        border-width: 1px 0px 0px 0px;
+                        border-style: solid;
+                        border-color: #c3c3c3;
+                    }
+
+                    #calendar .c-days tbody tr td > span {
+                        display: block;
+                        width: 100%;
+                        padding: 6px 0 6px 0;
+                        text-align: center;
+                        font-size: 14px;
+                    }
+
+                    #calendar .c-days tbody tr td.updated {
+                        background-color: #FFDDDD !important;
+                    }
+    </style>
+
+    <style>
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: white;
+            z-index: 9999;
+            color: black;
+        }
+
+        .overlayParent {
+            position: relative;
+        }
+
+        .informSectionHeader {
+            background-color: #2566A3;
+            color: #ffffff;
+            text-align: left;
+            font-weight: normal;
+            font-size: 0.8em;
+            height: 1.8em;
+            padding: 0.7em 0.8em 0.4em 0.8em;
+            vertical-align: middle;
+            font-family: Sans-Serif;
+        }
+
+        .weeknumber {
+            color: #2566A3;
+            background-color: #c3c3c3;
+            font-size: 18px;
+        }
+
+
+
+        .nonEditableQty {
+            color: #c3c3c3;
+        }
+
+
+        .editableQty {
+            color: #000000;
+            background-color: #ffffff;
+        }
+
+        #calendar .c-days tbody tr td.editedQty {
+            color: #2566A3;
+            font-weight: bold;
+        }
+
+
+
+        .overlay .orderQty {
+            font-size: 25px;
+            text-align: center;
+        }
+
+            .overlay .orderQty span {
+                padding: 20px;
+            }
+
+
+
+
+        button.saveButton {
+            background-color: #009247;
+        }
+
+        button.cancelButton {
+            background-color: #f00;
+        }
+
+
+        #leftPanel {
+            text-align: center;
+            vertical-align: middle;
+            height: 100%;
+            width: 40%;
+            line-height: 1.25;
+        }
+
+        #rightPanel {
+            text-align: center;
+            height: 100%;
+        }
+
+        .weeknumberIcon {
+            font-size: 1.8em;
+        }
+
+        .weekDay {
+            font-size: 1.25em;
+        }
+
+        .date {
+            font-size: 1.25em;
+        }
+
+        .qtyButton {
+            font-size: 1.8em;
+            border: 1px solid #2566A3;
+            background-color: #2566A3;
+            color: #fff;
+            height: 60px;
+            line-height: 60px;
+            width: 28%;
+            display: inline-block;
+        }
+
+        .qtyChange {
+            font-size: 1.8em;
+            border: 1px solid #2566A3;
+            color: #000;
+            background-color: #fff;
+            height: 60px;
+            line-height: 60px;
+            width: 28%;
+            display: inline-block;
+        }
+
+        .qtyButton:hover {
+            background: #1782e6;
+        }
+
+        #calendar .c-days tbody tr td.today {
+            border: 3px solid #2566A3;
+            margin: -3px;
+        }
+
+        .updatingValue {
+            background-color: yellow;
+        }
+
+        #calendar .c-days tbody tr td.onpromo.nonEditableQty {
+            background-color: #f0f0dd;
+        }
+
+        #calendar .c-days tbody tr td.onpromo.editableQty {
+            background-color: #ffffdd;
+        }
+
+        #calendar .c-days tbody tr td.onpromo.editedQty:not(.editableQty), #calendar .c-days tbody tr td.editedQty:not(.editableQty):not(.onpromo) {
+            color: #5185B5;
+        }
+
+
+
+        #buttonPanel td {
+            border-top: 1px solid #f2f2f2;
+        }
+
+        #leftPanel.onpromo {
+            background-color: #ffffdd;
+        }
+
+
+        .right {
+            float: right;
+        }
+
+        #tapToLoad {
+            text-align: center;
+            padding: 20px;
+            color: #000000;
+            background-color: #ffffff;
+        }
+
+            #tapToLoad img {
+                text-align: center;
+                width: 24px;
+                height: 24px;
+                float: none;
+            }
+
+        #storeManagerOrderSaving {
+            text-align: center;
+            width: 20px;
+            height: 20px;
+            float: right;
+        }
+    </style>
+
+    <style>
+        #legend {
+            padding: 5px 0px 0px 10px;
+        }
+
+
+            #legend .swatch {
+                width: 20px;
+                height: 20px;
+                display: inline-block;
+                line-height: 20px;
+                list-style: none;
+                border: 1px solid #c3c3c3;
+                vertical-align: middle;
+                text-align: center;
+                font-family: Arial;
+            }
+
+            #legend .promo {
+                background-color: #ffffdd;
+            }
+
+
+            #legend span.label {
+                font-family: Arial;
+                padding-left: 5px;
+                font-size: 14px;
+            }
+
+
+            #legend .edited {
+                color: #2566A3;
+                font-weight: bold;
+            }
+
+            #legend .noneditable {
+                color: #c3c3c3;
+            }
+
+            #legend div {
+                padding-bottom: 3px;
+            }
+
+            #legend .today {
+                border: 2px solid #2566A3;
+            }
+    </style>
+
+
+
+    <script>
+
+        Date.prototype.getWeekNumber = function () {
+            var d = new Date(+this);
+            d.setHours(0, 0, 0);
+            d.setDate(d.getDate() + 4 - (d.getDay() || 7));
+            return Math.ceil((((d - new Date(d.getFullYear(), 0, 1)) / 8.64e7) + 1) / 7);
+        };
+        var auth, tpnb, storeNumber, jsonData, offerStartDate, offerEndDate,offerNumber;
+
+        function SetData(a, b, c) {
+            auth = a;
+            storeNumber = b;
+            tpnb = c;
+        }
+
+        function SetCal(a) {
+            //window.external.notify("doneeeeeeeeeeeeeeeee " + a);
+            jsonData = JSON.parse(a);
+            //window.external.notify("doneeeeeeeeeeeeeeeee " + jsonData);
+           // angular.element(document.getElementById('calendarwrap')).scope().loadOrders("got");
+        }
+        function setOffer(a)
+        {
+            offerNumber = parseInt(a);
+        }
+        function SetOffersStartDate(a)
+        {
+            offerStartDate = a;
+            
+        }
+        function setOffersEndDate(a)
+        {
+            offerEndDate = a;
+            angular.element(document.getElementById('calendarwrap')).scope().loadOrders("got");
+        }
+        function SaveCal() {
+
+            //window.external.notify("doneeeeeeeeeeeeeeeee reverting");
+            angular.element(document.getElementById('calendarwrap')).scope().loadOrders("got");
+        }
+        function SetRev() {
+
+            //window.external.notify("doneeeeeeeeeeeeeeeee reverting");
+            angular.element(document.getElementById('calendarwrap')).scope().loadOrders("got");
+        }
+        /*var auth = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjpbIlVzZXIiLCJTYWxlc0Z1dHVyZVByb21vIiwic3RvcmVtYW5hZ2VyLW9yZGVyaW5nLXRyaWFsIiwiYWQiLCJpbmRpdmlkdWFsIl0sInVzZXJuYW1lIjoidm0xMyIsImNsaWVudCI6ImluZm9ybS5tb2JpbGUuYXBwcyIsImRldmljZUlkIjoiMGY1MTRhNTAtYWI4ZS00NWIyLThhMjAtNjhjYjRjMjYwM2Y3IiwiZGV2aWNlTmFtZSI6IldpbmRvd3MgUGhvbmUiLCJkb21haW4iOiJVS1JPSSIsImlzcyI6InNlbGYiLCJhdWQiOiJodHRwczovL2xhYnMub2NzZXQubmV0L2luZm9ybSIsImV4cCI6MTQzMzQ0MjU4MywibmJmIjoxNDMzNDEzNzgzfQ.aCsfjt0mrSj2eTMFhkTyZ7xFz5LrnOA528DlmsLJHIk";
+        var tpnb = "054169392";
+        var storeNumber = "2006";*/
+
+        var promo = [];
+    </script>
+
+
+
+</head>
+<body ng-app="inform">
+
+    <div id="wrapper">
+
+        <div id="calendarwrap" ng-controller="StoreManagerOrdersController">
+
+
+
+            <div id="calendar">
+                <div class="informSectionHeader">
+                    <div>Store Manager Orders (Cases)<span style="float: right;" id="helpLink" ng-if="data.weeks && !controls.showEditor" ng-click="controls.showLegend = !controls.showLegend">&nbsp;&nbsp;&nbsp;Help&nbsp;&nbsp;&nbsp;</span><img ng-if="controls.saving" id="storeManagerOrderSaving" src="https://labs.ocset.net/inform/content/images/spinner_light.svg" /></div>
+                </div>
+
+                <div id="tapToLoad" ng-if="!data.weeks" ng-click="loadOrders()">
+                    <span ng-if="!controls.loading">Tap To Load</span>
+                    <span ng-if="controls.loading"><img id="storeManagerOrderLoading" src="https://labs.ocset.net/inform/content/images/spinner.svg" /></span>
+                </div>
+
+                <div class="overlayParent">
+                    <table ng-if="showCalendar && data.weeks && data.weeks.length > 0" class="c-days">
+                        <thead class="light-gray">
+
+                            <tr>
+                                <th class="weeknumber">Wk</th>
+                                <th>Mon</th>
+                                <th>Tue</th>
+                                <th>Wed</th>
+                                <th>Thu</th>
+                                <th>Fri</th>
+                                <th>Sat</th>
+                                <th>Sun</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr ng-repeat="days in data.weeks">
+                                <td ng-repeat="day in days" ng-click="selectDate(day);" class="{{day.WeekNumber && 'weeknumber' || ''}}" ng-class="{ 'nonEditableQty' : day.AllowEdit == 'N', 'today' : day.Today == true, 'editableQty' : day.AllowEdit == 'Y', 'editedQty' : day.OrderAllocation == 'Store Manager Fixed', 'onpromo' : day.OnPromo, 'updated' : day.Selected }">
+                                    <span ng-if="day.WeekNumber">
+                                        {{ day.WeekNumber }}
+                                    </span>
+                                    <span ng-if="day.OrderDate">
+                                        {{ day.OrderQuantity | formatQty  }}
+                                    </span>
+                                </td>
+                            </tr>
+
+
+                        </tbody>
+                    </table>
+
+
+                    <div ng-show="controls.showLegend" class="overlay">
+                        <div id="legend">
+                            <div><span class="swatch promo">x</span><span class="label">yellowish background: on promotion</span></div>
+                            <div><span class="swatch">x</span><span class="label">black value: can be edited</span></div>
+                            <div><span class="swatch edited">x</span><span class="label">bold blue value: edited</span></div>
+                            <div><span class="swatch noneditable">x</span><span class="label">grey value: not editable</span></div>
+                            <div><span class="swatch today noneditable">x</span><span class="label">blue border: today</span></div>
+                        </div>
+                        <button style="position:absolute;bottom:5px;left:5px;" ng-click="controls.showLegend = false" class="pure-button button-error">Cancel</button>
+                    </div>
+
+
+                    <div ng-show="controls.showEditor" class="overlay">
+                        <table style="width:100%;height: 100%">
+                            <tbody>
+                                <tr>
+                                    <td id="leftPanel" ng-class="{ 'onpromo' : selected.OnPromo}">
+                                        <span class="weeknumberIcon">
+                                            WK{{selected.OrderDate | makeDate | tescoWeek }}
+                                        </span>
+                                        <br />
+                                        <span class="weekDay">{{selected.OrderDate | makeDate | date:'EEEE'}}</span>
+                                        <br />
+                                        <br />
+                                        <span class="date">{{selected.OrderDate | makeDate | date:'dd/MM/yyyy'}}</span>
+                                    </td>
+                                    <td id="rightPanel">
+                                        <span class="qtyButton" ng-click="decQty()">-</span>
+                                        <span class="qtyChange">{{selected.amendedQty}}</span>
+                                        <span class="qtyButton" ng-click="incQty()">+</span>
+                                        <br />
+                                        <br />
+                                    </td>
+                                </tr>
+                                <tr id="warningPanel" ng-show="controls.showEditorThresholdWarning">
+                                    <td colspan="2" class="centreText alertCell" style="padding: 2px">
+                                        <div>
+                                            <span>
+                                                <b>Warning:</b> Order exceeds recommended sales cover
+                                            </span>
+                                            <br />
+                                            <span>
+                                                - More than 10 days (Grocery) or code life (Fresh)
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr id="buttonPanel">
+                                    <td colspan="2">
+                                        <button ng-disabled="controls.saving" ng-click="controls.showEditor = false; selected.Selected = false;" class="pure-button button-error">Cancel</button>
+                                        <button ng-disabled="controls.saving" ng-click="controls.save(selected,'save')" class="pure-button button-success right">Save</button>
+                                        <button ng-disabled="controls.saving" ng-click="controls.revert(selected,'revert')" class="pure-button button-warning right">Revert</button>
+
+                                    </td>
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+
+        var app = angular.module('inform', ['ngAnimate']);
+
+        app.run(function () {
+            FastClick.attach(document.body);
+        });
+
+        app.filter('formatQty', function () {
+            return function (input) {
+                input = input || '';
+                var out = "";
+
+                if (input === -9999) {
+                    out = '-'
+                }
+                else {
+                    out = input;
+                }
+                if (input == '') {
+                    return 0;
+                }
+                return out;
+            };
+        });
+
+        app.filter('makeDate', function () {
+            return function (input) {
+                input = input || '';
+                var out = "";
+                if (input == '') {
+                    return '';
+                }
+                var dateParts = input.split("-");
+                var date = new Date(dateParts[2], (dateParts[1] - 1), dateParts[0]);
+                return date;
+            };
+        })
+
+        app.filter('tescoWeek', function () {
+            return function (input) {
+
+                input = input || '';
+                var out = "";
+
+                if (input == '') {
+                    return '';
+                }
+                else {
+                    var returnWeekNumber = input.getWeekNumber() - 9;
+                    return (returnWeekNumber == 0) ? 53 : returnWeekNumber;
+                }
+            };
+
+        });
+
+        app.directive("animateChange", function ($animate) {
+            return function (scope, element, attrs) {
+                scope.$watch(attrs.boundData, function (newVal) {
+                    if (newVal) {
+                        $animate.addClass(element, "updatingValue");
+                    } else {
+                        $animate.removeClass(element, "updatingValue");
+                    }
+                })
+            }
+        })
+
+        app.directive('clickAndLoad', function () {
+            return {
+                scope: {
+                    clickAndLoad: '&'
+                },
+                link: function (scope, iElement, iAttrs) {
+                    iElement.bind('click', function () {
+                        iElement.prop('disabled', true);
+                        scope.clickAndLoad().finally(function () {
+                            iElement.prop('disabled', false);
+                        })
+                    });
+                }
+            };
+        });
+
+
+
+        app.controller('StoreManagerOrdersController', function ($scope, $http, $anchorScroll, $location, $filter) {
+
+            $scope.data = {};
+            $scope.controls = {};
+            $scope.controls.showEditor = false;
+            $scope.controls.showEditorThresholdWarning = false;
+
+            $scope.incQty = function () {
+                $scope.selected.amendedQty++;
+                $scope.controls.showEditorThresholdWarning = ($scope.selected.amendedQty > $scope.selected.OrderThreshold) ? true : false;
+            }
+
+            $scope.decQty = function (qty) {
+
+                if ($scope.selected.amendedQty == 0) {
+                    $scope.selected.amendedQty;
+                }
+                else {
+                    $scope.selected.amendedQty--;
+                }
+                $scope.controls.showEditorThresholdWarning = ($scope.selected.amendedQty > $scope.selected.OrderThreshold) ? true : false;
+            }
+
+            var config = {};
+            config.headers = { Authorization: auth };
+
+            $scope.loadOrders = function (par) {
+                if (jsonData) {
+                    $scope.controls.loading = false;
+                    $scope.data.response = jsonData;                 
+                    window.external.notify("data " + JSON.stringify(jsonData));
+                    var weeks = [];
+                    var to = new Date();
+                    var Today = $filter('date')(to, 'dd') + '-' + $filter('date')(to, 'MM') + '-' + to.getFullYear();
+
+                    for (var i = 0; i < jsonData.StoreOrder.length; i++) {
+                        //window.external.notify(i);
+                        var dd = $filter('makeDate')(jsonData.StoreOrder[i].OrderDate);
+                        d = $filter('tescoWeek')(dd);
+                        if (i % 7 == 0) weeks.push([{ WeekNumber: d }]);
+                        weeks[weeks.length - 1].push(jsonData.StoreOrder[i]);
+                        if (jsonData.StoreOrder[i].OrderDate ==Today) {
+                            jsonData.StoreOrder[i].Today = true;
+                        }
+                        
+
+                        var index;
+                      
+                        for (index = 0; index < offerNumber; ++index) {
+                            var start = new Date(offerStartDate);
+                            var end = new Date(offerEndDate);
+
+                            if (dd >= start && dd <= end) {
+                                jsonData.StoreOrder[i].OnPromo = true;
+                            }
+                        };
+                        
+                    }
+                    
+                    $scope.data.weeks = weeks;
+                    $scope.data.so = jsonData;
+                    $location.hash('calendar');
+                    $anchorScroll();
+
+                    //window.external.notify("finished");
+
+                }
+                $scope.showCalendar = true;
+                
+
+            };
+           
+            $scope.controls.save = function (item, message) {
+                if (message == 'save') {
+                    var req = {};
+                    req.OrderDate = item.OrderDate;
+                    req.Quantity = item.amendedQty;
+
+
+                    $scope.controls.saving = true;
+                    window.external.notify('https://labs.ocset.net/smapp/v2/validate/storeorder/add/' + storeNumber + '/' + tpnb + JSON.stringify(req));
+                    $scope.controls.showEditor = false;
+                    //item.OrderQuantity = item.amendedQty;
+                    //item.OrderAllocation = "Store Manager Fixed";
+                    $scope.controls.saving = false;
+                    $scope.selected.Selected = false;
+                }
+
+            };
+
+            $scope.controls.revert = function (item, message) {
+
+                var req = {};
+                req.OrderDate = item.OrderDate;
+                req.Quantity = 0;
+                $scope.controls.saving = true;
+                window.external.notify("message" + message);
+                if (message == 'revert')
+                    window.external.notify('https://labs.ocset.net/smapp/v2/validate/storeorder/remove/' + storeNumber + '/' + tpnb + req.OrderDate);
+
+                ///$scope.loadOrders("get");
+                //$scope.loadOrders("get");
+                $scope.controls.showEditor = false;
+                $scope.controls.saving = false;
+                $scope.selected.Selected = false;
+
+
+
+            };
+
+
+
+            $scope.selectDate = function (item) {
+
+                if (item.AllowEdit == 'Y') {
+                    $scope.selected = {};
+                    $scope.selected = item;
+                    $scope.selected.Selected = true;
+                    $scope.selected.amendedQty = item.OrderQuantity;
+                    $scope.controls.showEditor = true;
+                    $scope.controls.showEditorThresholdWarning = ($scope.selected.amendedQty > $scope.selected.OrderThreshold) ? true : false;
+                }
+            }
+
+        });
+
+    </script>
+
+</body>
+
+
+</html>

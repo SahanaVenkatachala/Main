@@ -1,0 +1,217 @@
+﻿<Page
+    x:Class="storeEmpowerment.productSearch"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:storeEmpowerment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:drawerLayout="using:DrawerLayout"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <drawerLayout:DrawerLayout Grid.Row="1"  x:Name="DrawerLayout">
+        <Grid  Background="White">
+            <Canvas x:Name="canvas" Height="50" VerticalAlignment="Top" RenderTransformOrigin="0.509,-0.255" Background="#FF8EB4E3">
+                <!--<Image x:Name="empowImage2" Height="78" Width="100" Source="Assets/EmpowLogo.png" Canvas.Top="12" Canvas.Left="10"/>-->
+                <Image Source="Assets/ic_drawer.png" Height="35" Width="Auto" Canvas.Top="10" Tapped="DrawerIcon_Tapped"/>
+                <!--<Image x:Name="image" Source="Assets/EmpowLogo.png" Canvas.Left="30" Canvas.Top="8" Height="30" Width="84" RenderTransformOrigin="0.521,1.162" />-->
+                <TextBlock x:Name="myOrders1" IsTextScaleFactorEnabled="False" Canvas.Left="150" TextWrapping="Wrap" Text="Availability" Canvas.Top="15" Height="33" Width="97" HorizontalAlignment="Left" FontSize="20"/>
+            </Canvas>
+            <ProgressRing x:Name="p_ring" Foreground="White" HorizontalAlignment="Center" Width="100" Height="100" Margin="0,20,0,150" Grid.Row="1" />
+
+            <ListView x:Name="storeList" IsTextScaleFactorEnabled="False"  Height="Auto" Margin="0,188,0,0" VerticalAlignment="Top" Foreground="Black" FontSize="21" SelectionChanged="SearchItemsSelectionChanged">
+
+                <ListView ItemsSource="{Binding}" />
+                <ListView.ItemContainerStyle>
+                    <Style x:Name="itemStyle1" TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                        <Setter x:Name="paddinProp" Property="Padding" Value="10,10,10,10"/>
+                        <Setter Property="FontWeight" Value="SemiBold"/>
+                        <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                        <Setter Property="Height" Value="Auto"/>
+                        <!--l,t,r,b-->
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    <DataTemplate x:Name="gridData">
+                        
+                            <Grid x:Name="listGrid">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="30"/>
+                            </Grid.ColumnDefinitions>
+                           <!-- <Image x:Name="prodImage" Grid.Column="0" Source="{Binding ImageURL}"/>-->
+                           
+                                <Image x:Name="prodImage" Grid.Column="0" Source="{Binding ImageURL}"/>
+
+                            <TextBlock Canvas.Left="10" IsTextScaleFactorEnabled="False" Text="{Binding Description}" x:Name="storeNameText" TextWrapping="Wrap" Width="Auto" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Center"  FontSize="16" />
+                            <TextBlock Foreground="Gray" IsTextScaleFactorEnabled="False" FontWeight="Bold" Canvas.Left="10" VerticalAlignment="Center" Text="{Binding color}" x:Name="symbol" TextWrapping="Wrap" Width="Auto" Grid.Column="2" Height="Auto" HorizontalAlignment="Left"  FontSize="26" />
+                            
+
+
+
+
+                            <!--<TextBlock Text=">" VerticalAlignment="Center" Grid.Column="2"  FontSize="30" />-->
+                            <!--<TextBlock Text="{Binding}" FontSize="18" Foreground="Black" />-->
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+           
+                <ListView x:Name="recentList" IsTextScaleFactorEnabled="False"  Height="Auto" Margin="0,188,0,0" VerticalAlignment="Top" Foreground="Black" FontSize="21" SelectionChanged="RecentItemsSelectionChanged">
+                
+                    <ListView ItemsSource="{Binding}" />
+                <ListView.ItemContainerStyle>
+                    <Style x:Name="recentitemStyle" TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                        <Setter x:Name="recentpaddinProp" Property="Padding" Value="10,10,10,10"/>
+                        <Setter Property="FontWeight" Value="SemiBold"/>
+                        <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                        <Setter Property="Height" Value="65"/>
+                        <!--l,t,r,b-->
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    
+                    <DataTemplate x:Name="gridData">
+                        <Grid x:Name="listGrid">
+                           
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock Text="{Binding}" x:Name="storeNameText" Grid.Column="1"  FontSize="16" />
+                   
+                    <!--<TextBlock Text="{Binding}" FontSize="18" Foreground="Black" />-->
+                        </Grid>
+                    </DataTemplate>
+                    
+                </ListView.ItemTemplate>
+               
+            </ListView>
+            
+            <Border x:Name="border" BorderBrush="Red">
+                <Canvas x:Name="myCanvas" Background="#FF8EB4E3" HorizontalAlignment="Stretch" Margin="0,51,0,0" VerticalAlignment="Top">
+                    <TextBlock x:Name="Search" IsTextScaleFactorEnabled="False" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Tapped="Search_Tapped"  FontSize="20" Canvas.Top="28" Canvas.Left="20" Text="Search" />
+                    <Image x:Name="searchImage" HorizontalAlignment="Left" Canvas.Top="27" Height="20" VerticalAlignment="Top" Width="38" Source="Assets/icon_search.png"/>
+                    <TextBlock x:Name="Scan" IsTextScaleFactorEnabled="False" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Tapped="Scan_Tapped" FontSize="18" Canvas.Top="28" Canvas.Left="20" Text="Scan" />
+                    <Image x:Name="scanImage" HorizontalAlignment="Left" Canvas.Top="27" Height="20" VerticalAlignment="Top" Width="50" Source="Assets/icon_scan.png"/>
+                </Canvas>
+            </Border>
+            <Canvas x:Name="horizontal" Background="#FF999999" HorizontalAlignment="Stretch" Height="1" Margin="0,50,0,0" VerticalAlignment="Top"/>
+            
+
+            <Canvas x:Name="canvas1" Height="80" VerticalAlignment="Top" Margin="0,51,0,0"  Background="#FF8EB4E3">
+                <TextBox x:Name="searchText"  Padding="5,5,5,5" IsTextScaleFactorEnabled="False"  TextAlignment="Left" PlaceholderText="Enter an EAN, TPNB or search text"   KeyDown="searchText_KeyDown" Background="White" Height="50" HorizontalAlignment="Stretch" VerticalContentAlignment="Bottom" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Canvas.Left="8" Canvas.Top="4" Width="276"/>
+                <!--<Button x:Name="Cancel" BorderBrush="Blue" Background="Blue" Content="Cancel" HorizontalAlignment="Right" Width="18" VerticalAlignment="Top" Canvas.Left="247" RenderTransformOrigin="1.537,0.47" Canvas.Top="0" Height="53"/>-->
+
+                <Image x:Name="SearchIcon" HorizontalAlignment="Right" Height="22" Canvas.Left="90" Margin="-12,25,120,20" VerticalAlignment="Top" Width="25" RenderTransformOrigin="-1.424,-4.508" Source="Assets/cancelicon.png" Tapped="clearText"/>
+                
+               <!-- <Canvas x:Name="canvas2" Background="#FF3181E4" HorizontalAlignment="Right" Height="45" Canvas.Left="310" Canvas.Top="10" VerticalAlignment="Top" Width="78">
+                    <TextBlock x:Name="cancel" Canvas.Top="11" Canvas.Left="12" Tapped="cancel_Tapped" HorizontalAlignment="Center" VerticalAlignment="Center" Width="78" FontSize="18" Height="42" FontWeight="Bold" TextWrapping="Wrap" Text="Cancel"/>
+                </Canvas>-->
+                <Image x:Name="backArrow" HorizontalAlignment="Center" Height="28" Margin="0,22,25,0" VerticalAlignment="Top" Width="30" RenderTransformOrigin="-1.424,-4.508" Source="Assets/back.png" Tapped="cancel_Tapped"/>
+
+            </Canvas>
+
+            <Canvas x:Name="vertical" Background="#FF999999" Width="1" Height="78" Margin="0,52,0,0" VerticalAlignment="Top"/>
+
+            <Canvas Background="#FF999999" HorizontalAlignment="Stretch" Height="60" Margin="0,131,0,0" VerticalAlignment="Top">
+                <!--<TextBlock x:Name="Recentabove" IsTextScaleFactorEnabled="False" Tapped="RecentItemsAction" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="18" Canvas.Top="0" Canvas.Left="20" Height="Auto" TextWrapping="Wrap" Text="" />-->
+                <TextBlock x:Name="RecentItems" IsTextScaleFactorEnabled="False" Tapped="RecentItemsAction" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="18" Canvas.Top="18" Canvas.Left="20" Height="42" TextWrapping="Wrap" Text="Recent Items" />
+                <!--<TextBlock x:Name="Searchabove" IsTextScaleFactorEnabled="False" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Tapped="SearchResultAction"  FontSize="18" Canvas.Top="0" Canvas.Left="0" Height="60" Text="" />-->
+                <TextBlock x:Name="searchResults" IsTextScaleFactorEnabled="False" Tapped="SearchResultAction" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Canvas.Top="18" Canvas.Left="20" Height="42" TextWrapping="Wrap" Text="Search Results" />
+                <Canvas x:Name="color" Background="#FF545657" HorizontalAlignment="Stretch" Height="7" Canvas.Left="0" Canvas.Top="53" VerticalAlignment="Top"/>
+                <Canvas x:Name="colorScan" Background="#FF545657" HorizontalAlignment="Stretch" Height="7" Canvas.Left="0" Canvas.Top="53" VerticalAlignment="Top"/>
+            </Canvas>
+
+
+
+            <TextBlock x:Name="norecent" IsTextScaleFactorEnabled="False" FontSize="18" Width="210" HorizontalAlignment="Left" Margin="0,195,0,0" TextWrapping="Wrap" Text="No Recent Items Found" Foreground="Gray" VerticalAlignment="Top"/>
+            <TextBlock x:Name="nosearch" IsTextScaleFactorEnabled="False" FontSize="18" Width="145" HorizontalAlignment="Left" Margin="100,195,0,0" TextWrapping="Wrap" Text="No Items Found" Foreground="Gray"  VerticalAlignment="Top"/>
+
+
+        </Grid>
+        <Grid x:Name="ListFragment"  Margin="0,50,0,0" VerticalAlignment="Top">
+            <ScrollViewer>
+                <Grid Background="#4B545C">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60"/> 
+                    </Grid.RowDefinitions>
+
+                    <Grid x:Name="name" Background="Transparent" Grid.Row="1" >
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Margin="20 10 0 5"  VerticalAlignment="Center">
+                            <TextBlock x:Name="menuName" Text="" Foreground="White" IsTextScaleFactorEnabled="False"  VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" />
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid x:Name="Item1" Background="Transparent" Grid.Row="3" >
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <TextBlock Text="Select Store" Foreground="#999999" IsTextScaleFactorEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20"  Tapped="changeStore" />
+                            <!-- <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="42" Source="Assets/select.png" />-->
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid x:Name="Item7" Background="Transparent" Grid.Row="6">
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <!--<Image HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="42" Source="Assets/settings.png" />-->
+                            <TextBlock Text="About" Foreground="#999999"  IsTextScaleFactorEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" Tapped="about"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid x:Name="Item3" Background="Transparent" Grid.Row="4">
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <TextBlock Text="Team Access" Foreground="#999999"  IsTextScaleFactorEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" Tapped="teamAccess"/>
+                        </StackPanel>
+                </Grid>
+
+                <Grid x:Name="Item6" Background="Transparent" Grid.Row="5">
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <TextBlock Text="Settings" Foreground="#999999" IsTextScaleFactorEnabled="False"  VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" Tapped="settings"/>
+                            <Image HorizontalAlignment="Left" Margin="10,0,0,0" Height="25" VerticalAlignment="Top" Width="20" Source="Assets/settings.png" />
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid x:Name="Item2" Background="Transparent" Grid.Row="7" >
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <!--<Image HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="42" Source="Assets/logOut.png" />-->
+                            <TextBlock Text="Sign Out" Foreground="#999999" IsTextScaleFactorEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" Tapped="logoutAction"/>
+                            <Image HorizontalAlignment="Left" Height="25" Margin="10,0,0,0" VerticalAlignment="Top" Width="42" Source="Assets/logOut.png" />
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid x:Name="Item5" Background="Transparent" Grid.Row="2" >
+                        <Border BorderBrush="#FFE0E0E0" BorderThickness="0 0 1 1" />
+                        <StackPanel Orientation="Horizontal" Margin="20 10 0 5" VerticalAlignment="Center">
+                            <!--<Image HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="42" Source="Assets/compliance.png" />-->
+                            <TextBlock Text="Store Routines" Foreground="#999999" IsTextScaleFactorEnabled="False" VerticalAlignment="Center" HorizontalAlignment="Left"  FontSize="20" Tapped="complainceAction"/>
+                        </StackPanel>
+                    </Grid>
+
+                </Grid>
+            </ScrollViewer>
+
+        </Grid>
+    </drawerLayout:DrawerLayout>
+
+</Page>

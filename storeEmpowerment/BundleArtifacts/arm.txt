@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\storeEmpowerment_2.0.0.3_Bundle\storeEmpowerment_2.0.0.3_ARM.appx
+SymbolPackage=C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\AppPackages\storeEmpowerment_2.0.0.3_Test\storeEmpowerment_2.0.0.3_ARM.appxsym
+ResourcePack=C:\Users\Sahana\Desktop\Backups\StoreEmpowerNew4\windows\StoreEmpowerment-Windows\storeEmpowerment\bin\ARM\Release\storeEmpowerment_2.0.0.3_Bundle\storeEmpowerment_2.0.0.3_scale-100.appx

@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="storeEmpowerment.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!-- <Image Source="/Background.png" Visibility="Visible"/>-->
+
+
+    <Grid Background="#FF8EB4E3">      
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="105*"/>
+        </Grid.RowDefinitions>
+       
+        <TextBox x:ConnectionId='1' IsTextScaleFactorEnabled="False" PlaceholderText= "Username"                                Height="45" x:Name="userName"  HorizontalAlignment="Stretch" Margin="40,200,40,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="Auto" Foreground=" #0C090A" TextAlignment="Left"                           />
+        <Image x:Name="empowimg" Margin="0,50,0,0" VerticalAlignment="Top" Source="Assets/availability.png" HorizontalAlignment="Center" Grid.RowSpan="2" Height="192" Width="199"/>
+        <PasswordBox x:ConnectionId='2' IsTextScaleFactorEnabled="False" PlaceholderText="Password"                            Height="45" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" x:Name="passWord" HorizontalAlignment="Stretch" Margin="40,263,40,0" Grid.Row="1" VerticalAlignment="Top"  Width="Auto" Foreground=" #0C090A" />
+        <Button x:ConnectionId='3' x:Name="signIn" IsTextScaleFactorEnabled="False" Content="Sign in" HorizontalContentAlignment="Center" Height="65" HorizontalAlignment="Stretch" Margin="40,372,40,0" Grid.Row="1" Width="Auto" VerticalAlignment="Top" Background="#FF387EF5" BorderBrush="#FF387EF5"                     />
+        <Button x:ConnectionId='4' x:Name="signInAbove" IsTextScaleFactorEnabled="False" Content="Sign in" HorizontalContentAlignment="Center" Height="65" HorizontalAlignment="Stretch" Margin="40,316,40,0" Grid.Row="1" Width="Auto" VerticalAlignment="Top" Background="#FF387EF5" BorderBrush="#FF387EF5"                     />
+        <Image x:Name="tescoImg"  HorizontalAlignment="Center" Height="42" VerticalAlignment="Bottom" Margin="0,0,0,30" Grid.Row="1"  Width="Auto" Source="Assets/Tesco.png"/>
+        <ProgressRing  x:Name="ring" Foreground="White" HorizontalAlignment="Center" Width="100" Height="100" Margin="0,0,0,150" Grid.Row="1" >
+        </ProgressRing>
+
+
+
+        <ComboBox x:Name="domain" Height="210" HorizontalAlignment="Stretch" Margin="40,317,40,0" Grid.Row="1" VerticalAlignment="Top" Width="Auto" Foreground="#FF0C090A" Background="White" >
+            <ComboBoxItem Content="Domain" IsTextScaleFactorEnabled="False" x:Name="domainitem" Height="50" IsSelected="True" Foreground="#FF8EB4E3"/>
+            <ComboBoxItem x:Name="TSL" IsTextScaleFactorEnabled="False" Content="TSL"/>
+            <ComboBoxItem x:Name="Tescoglobal" IsTextScaleFactorEnabled="False" Content="Tescoglobal"/>
+            <ComboBoxItem x:Name="UKROI" IsTextScaleFactorEnabled="False" Content="UKROI"/>
+        </ComboBox>
+        <Image x:Name="downArrow" HorizontalAlignment="Right" Height="15" Margin="0,338,53,50" Grid.Row="1" VerticalAlignment="Top" Width="Auto" Source="Assets/triangle_arrow.png" RenderTransformOrigin="0.633,1.333"/>
+
+        
+    </Grid>
+
+</Page>
+

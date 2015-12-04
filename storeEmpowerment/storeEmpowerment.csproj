@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Win2D.0.0.16\build\wpa\Win2D.props" Condition="Exists('..\packages\Win2D.0.0.16\build\wpa\Win2D.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2212C3D3-FE8D-4A86-807E-9F08B0789C7A}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>storeEmpowerment</RootNamespace>
+    <AssemblyName>loginApp</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>arm</AppxBundlePlatforms>
+    <AppxBundle>Auto</AppxBundle>
+    <NuGetPackageImportStamp>4285be4e</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AccessName.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AppVersionRequest.cs" />
+    <Compile Include="AppVersionResponse.cs" />
+    <Compile Include="calendar\BookStock.cs" />
+    <Compile Include="calendar\Calendar.cs" />
+    <Compile Include="calendar\Counting.cs" />
+    <Compile Include="calendar\Delivery.cs" />
+    <Compile Include="calendar\Details.cs" />
+    <Compile Include="calendar\Offer.cs" />
+    <Compile Include="calendar\Price.cs" />
+    <Compile Include="calendar\PriceAPI .cs" />
+    <Compile Include="calendar\PricingLocation .cs" />
+    <Compile Include="calendar\Product.cs" />
+    <Compile Include="calendar\ProductLocation.cs" />
+    <Compile Include="calendar\Range.cs" />
+    <Compile Include="calendar\Sale.cs" />
+    <Compile Include="calendar\ShelfCapacity.cs" />
+    <Compile Include="calendar\Variant.cs" />
+    <Compile Include="ContinousAutoFocus.cs" />
+    <Compile Include="CountingList.cs" />
+    <Compile Include="dataContract.cs" />
+    <Compile Include="Delegatee0.cs" />
+    <Compile Include="Delegatees.cs" />
+    <Compile Include="DeliverList.cs" />
+    <Compile Include="DeliveryHeader.cs" />
+    <Compile Include="FormBorderStyle.cs" />
+    <Compile Include="GetStoreKPI.cs" />
+    <Compile Include="ILHMView.cs" />
+    <Compile Include="ISearchByNameList.cs" />
+    <Compile Include="ISearchPage.cs" />
+    <Compile Include="IStoreList.cs" />
+    <Compile Include="LHMPresenter.cs" />
+    <Compile Include="ListViewController.cs" />
+    <Compile Include="ListViewData.cs" />
+    <Compile Include="LocationList.cs" />
+    <Compile Include="LoginData.cs" />
+    <Compile Include="LoginPage.xaml.cs">
+      <DependentUpon>LoginPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginRequest.cs" />
+    <Compile Include="LoginResponse.cs" />
+    <Compile Include="MainPage.xaml.cs" />
+    <Compile Include="networkManager.cs" />
+    <Compile Include="NewSettings.xaml.cs">
+      <DependentUpon>NewSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PopulateData.cs" />
+    <Compile Include="populateResponse.cs" />
+    <Compile Include="popupBox.cs" />
+    <Compile Include="productDetails.cs" />
+    <Compile Include="ProductOverview.xaml.cs" />
+    <Compile Include="productSearch.xaml.cs">
+      <DependentUpon>productSearch.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PromoList.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QrCodeDetectorEventSource.cs" />
+    <Compile Include="RefreshData.cs" />
+    <Compile Include="RefreshRequest.cs" />
+    <Compile Include="ResponseHandler.cs" />
+    <Compile Include="RoutineData.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="SaleList.cs" />
+    <Compile Include="SearchByNameResponse.cs" />
+    <Compile Include="searchPage.xaml.cs">
+      <DependentUpon>searchPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchPresenter.cs" />
+    <Compile Include="SearchProductbyNamePresenter.cs" />
+    <Compile Include="Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShelfList.cs" />
+    <Compile Include="StockList.cs" />
+    <Compile Include="storeDetails.cs" />
+    <Compile Include="StoreEmpowermentModel.cs" />
+    <Compile Include="StoreList.xaml.cs">
+      <DependentUpon>StoreList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreListPresenter.cs" />
+    <Compile Include="storeRoutine.xaml.cs">
+      <DependentUpon>storeRoutine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Stores.cs" />
+    <Compile Include="TeamAccess.xaml.cs">
+      <DependentUpon>TeamAccess.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TeamAccessData.cs" />
+    <Compile Include="TeamAccessDeleteData.cs" />
+    <Compile Include="TeamAccessListResponse.cs" />
+    <Compile Include="TeamAccessToggleResponse.cs" />
+    <Compile Include="ThisQuarter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="analytics.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Assets\add.png" />
+    <Content Include="Assets\availability.png" />
+    <Content Include="Assets\back.png" />
+    <Content Include="Assets\backImg.png" />
+    <Content Include="Assets\cancel.png" />
+    <Content Include="Assets\cancelicon.png" />
+    <Content Include="Assets\compliance.png" />
+    <Content Include="Assets\home.png" />
+    <Content Include="Assets\icon-150.png" />
+    <Content Include="Assets\icon-310_150.png" />
+    <Content Include="Assets\icon-44.png" />
+    <Content Include="Assets\icon-71.png" />
+    <Content Include="Assets\icon_scan.png" />
+    <Content Include="Assets\icon_search.png" />
+    <Content Include="Assets\ic_backArrow.png" />
+    <Content Include="Assets\ic_drawer.png" />
+    <Content Include="Assets\EmpowLogo.png" />
+    <Content Include="Assets\loginpg.jpg" />
+    <Content Include="Assets\loginScreen_logo.png" />
+    <Content Include="Assets\login_logo_MyStock.png" />
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\logOut.png" />
+    <Content Include="Assets\minus.jpg" />
+    <Content Include="Assets\scanimg.png" />
+    <Content Include="Assets\scanimg1.png" />
+    <Content Include="Assets\search-icon.png" />
+    <Content Include="Assets\search1.png" />
+    <Content Include="Assets\select.png" />
+    <Content Include="Assets\settings.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\Splash_screen1.scale-100.png" />
+    <Content Include="Assets\square44.png" />
+    <Content Include="Assets\square71.png" />
+    <Content Include="Assets\Tesco.png" />
+    <Content Include="Assets\tick.png" />
+    <Content Include="Assets\triangle_arrow.png" />
+    <Content Include="Assets\warning.png" />
+    <Content Include="Assets\WideLogo.scale-100.png" />
+    <Content Include="Assets\WideLogo.scale-240.png" />
+    <Content Include="Assets\x-mark-md.png" />
+    <Content Include="BugSense\BugSense - SDK License Agreement.txt" />
+    <Content Include="Html\resp.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="LoginPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="NewSettings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProductOverview.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="productSearch.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="searchPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Settings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="storeRoutine.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TeamAccess.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="BugSense-WP8.1">
+      <HintPath>..\packages\BugSense.WP81.3.6.6.0\lib\wpa81\BugSense-WP8.1.dll</HintPath>
+    </Reference>
+    <Reference Include="CrittercismSDK">
+      <HintPath>..\packages\Crittercism.2.2.1\lib\wpa81\CrittercismSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="DrawerLayout">
+      <HintPath>..\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleAnalytics">
+      <HintPath>..\packages\GoogleAnalyticsSDK.1.3.00\lib\wpa81\GoogleAnalytics.winmd</HintPath>
+    </Reference>
+    <Reference Include="GoogleAnalytics.Core">
+      <HintPath>..\packages\GoogleAnalyticsSDK.1.3.00\lib\wpa81\GoogleAnalytics.Core.winmd</HintPath>
+    </Reference>
+    <Reference Include="Lumia.Imaging">
+      <HintPath>..\bin\Lumia.Imaging.winmd</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Graphics.Canvas, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Win2D.0.0.16\lib\wpa\Microsoft.Graphics.Canvas.winmd</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives">
+      <HintPath>..\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="VideoEffectExtensions">
+      <HintPath>..\packages\MMaitre.VideoEffects.2.3.1\lib\portable-netcore451+wpa81\VideoEffectExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="ZXing">
+      <HintPath>..\packages\ZXing.Net.0.14.0.1\lib\wpa81\ZXing.winmd</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="analytics.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyStock.pfx" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QrCodeDetector.wprp" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetPlatformIdentifier)' == '' ">
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <Import Project="..\packages\LumiaImagingSDK.2.0.208\build\wpa81\LumiaImagingSDK.targets" Condition="Exists('..\packages\LumiaImagingSDK.2.0.208\build\wpa81\LumiaImagingSDK.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\LumiaImagingSDK.2.0.208\build\wpa81\LumiaImagingSDK.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\LumiaImagingSDK.2.0.208\build\wpa81\LumiaImagingSDK.targets'))" />
+    <Error Condition="!Exists('..\packages\Win2D.0.0.16\build\wpa\Win2D.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Win2D.0.0.16\build\wpa\Win2D.props'))" />
+    <Error Condition="!Exists('..\packages\Win2D.0.0.16\build\wpa\Win2D.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Win2D.0.0.16\build\wpa\Win2D.targets'))" />
+    <Error Condition="!Exists('..\packages\MMaitre.VideoEffects.2.3.1\build\wpa81\MMaitre.VideoEffects.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MMaitre.VideoEffects.2.3.1\build\wpa81\MMaitre.VideoEffects.targets'))" />
+  </Target>
+  <Import Project="..\packages\Win2D.0.0.16\build\wpa\Win2D.targets" Condition="Exists('..\packages\Win2D.0.0.16\build\wpa\Win2D.targets')" />
+  <Import Project="..\packages\MMaitre.VideoEffects.2.3.1\build\wpa81\MMaitre.VideoEffects.targets" Condition="Exists('..\packages\MMaitre.VideoEffects.2.3.1\build\wpa81\MMaitre.VideoEffects.targets')" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
